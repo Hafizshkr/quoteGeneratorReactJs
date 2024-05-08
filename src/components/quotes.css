@@ -1,0 +1,18 @@
+
+.btnQuote {
+    color: white;
+    background-color: rgb(10, 85, 85);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    box-shadow: 5px 5px rgb(17, 146, 146);
+}
+
+p {
+    font-size: 26px;
+    text-wrap: wrap;
+}
+
+.container-text {
+    padding-bottom: 20px;
+}
